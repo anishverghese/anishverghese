@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anish Verghese</h1>
+<h1 align="center">Hello 👋, I'm Anish Verghese</h1>
 <h3 align="center">Passionate computer science Engineering Student | Experienced in ML, Data Visualization, and SQL Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishverghese&label=Profile%20views&color=0e75b6&style=flat" alt="anishverghese" /> </p>
